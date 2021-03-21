@@ -2,4 +2,4 @@
 
 A dynamic true or false quiz app
 
-![Screenshot](screenshot.png | width=100)
+![Screenshot](screenshot.png){:height="25%" width="25%"}
